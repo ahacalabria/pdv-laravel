@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+/public/storage
+/public/notas
+/public/notasA4
+/public/uploads
+public/.htaccess
+Homestead.yaml
+Homestead.json
+/public/dopdf/config.php
+.env
+.htaccess
+notas
+notasA4
+uploads
